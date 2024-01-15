@@ -1,5 +1,7 @@
 # utilities-checksum-v2
 
+<img src="https://github.com/Rob42101/utilities-checksum-v2/blob/main/File%20Checksum%20V2_002.png" width=505>
+
 Announcing version 2 of my 'File Checksum' app, which is a complete rework of the V1 app. As with V1, V2 was developed using the PAGE GUI design application, but since PAGE V8 has now been released, I've used that version of PAGE to develop the GUI for this project. You'll find some details about that in the `README.md` page for my `utilities` repository, of which this is a sub-section.
 
 Although PGP signature files are becoming more popular, you'll still come across this kind of file verification (such as for files hosted on `pypi.org`, for example) and this app is an easy and pleasant way to use this time honoured process.
